@@ -1,0 +1,8 @@
+{
+  "name": "Ember & Grain",
+  "description": "Wood-fired sourdough flatbreads, harvest grain bowls, handmade pasta, and craft beverages for delivery or pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
